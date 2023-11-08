@@ -51,6 +51,21 @@ Transform of 3D object.
 
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/f77a49a2-dacf-42a9-8916-464e3f7d619c)
 
+Measuring distance by camera.
+
+Add preferred furniture to favorite list. 
+
+Add furniture to shopping cart. 
+
+Make Purchase. 
+
+![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/722f0748-c803-4145-9a2f-fbd0c4f9e49b)
+
+
+
+
+
+
 
 
 
