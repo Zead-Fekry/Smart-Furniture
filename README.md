@@ -16,21 +16,11 @@ Objectives:
     furnishing his house
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/c221492e-bce9-4132-85d6-c473ef566943)
 
+Software Tools![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/7b33d486-d031-4c01-9f2d-70e8a89ce50a)
+
 
 
         
 
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
