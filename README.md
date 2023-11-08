@@ -16,11 +16,25 @@ Objectives:
     furnishing his house
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/c221492e-bce9-4132-85d6-c473ef566943)
 
-Software Tools:
+                                           Software Tools:
 
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/0c7edee4-6232-4d48-bf10-fd57373f610f)
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/054b0d1e-9fac-456f-9e94-3634c925ac15)
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/78ac5771-e3a7-4cd6-8b4d-866342da0022)
+
+Methodologies
+![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/89d3eb2c-49c3-49b6-a1f6-e88960f08172)
+
+The Smart Furniture application was developed using the Flutter framework, a cross-platform tool for building high-quality mobile applications for iOS and Android platforms.
+
+To incorporate augmented reality functionality, the application utilized the AR Flutter plugin, an SDK that provides features such as motion tracking, environmental understanding, and object placement
+
+The 3D furniture models were created using GLTF, a modeling technique that combines multiple high-resolution images to create a detailed and realistic 3D model.
+
+GLTF models were optimized for real-time rendering and display within the application, ensuring accurate representation of textures, colors, and dimensions.
+![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/c816ef3c-24ad-4c78-81be-c8f76f8d32d3)
+![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/a31d3520-3522-45df-bdd3-2650d6735780)
+
 
 
 
