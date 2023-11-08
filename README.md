@@ -61,6 +61,10 @@ Make Purchase.
 
 ![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/722f0748-c803-4145-9a2f-fbd0c4f9e49b)
 
+Demo:
+![image](https://github.com/Zead-Fekry/SmartFurniture/assets/77162607/4de3216f-6bfc-4a9e-bb39-5c9326620865)
+
+
 
 
 
