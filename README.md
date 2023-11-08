@@ -1,4 +1,4 @@
-# gradutionproject based on Augmented Reality
+# GradutionProject based on Augmented Reality
 
 
 Problem Definition:
